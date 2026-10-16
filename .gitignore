@@ -1,0 +1,69 @@
+# ==========================================
+# ASSER MEDIA PLAYER
+# Visual Studio / .NET Project
+# Git Ignore Configuration
+# ==========================================
+
+# Visual Studio IDE Files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+# Build Outputs
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+artifacts/
+x64/
+x86/
+
+# NuGet Packages
+packages/
+*.nupkg
+*.snupkg
+
+# Test Results and Coverage
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+coverage/
+coverage.cobertura.xml
+
+# Temporary Files and Cache
+*.cache
+*.tmp
+*.temp
+*.bak
+*.log
+*.old
+*.swp
+
+# Local Environment and Credentials
+.env
+.env.*
+!.env.example
+secrets.json
+
+# JetBrains Rider / Other Editors
+.idea/
+.vscode/
+*.sln.iml
+
+# Windows System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Miscellaneous
+*.orig
+*.rej

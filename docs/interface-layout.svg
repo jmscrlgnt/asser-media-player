@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">AsserPlayer interface layout</title>
+  <desc id="desc">Illustrative layout showing navigation, player, media library, queue and transport controls.</desc>
+  <rect width="1200" height="700" rx="18" fill="#080b12"/>
+  <rect x="18" y="18" width="1164" height="64" rx="10" fill="#0d121d" stroke="#222a3c"/>
+  <rect x="36" y="31" width="38" height="38" rx="10" fill="#6f59ff"/>
+  <text x="55" y="57" text-anchor="middle" font-family="Segoe UI,Arial" font-size="20" font-weight="700" fill="#ffffff">N</text>
+  <text x="88" y="48" font-family="Segoe UI,Arial" font-size="20" font-weight="700" fill="#f2f5f9">AsserPlayer</text>
+  <text x="88" y="66" font-family="Segoe UI,Arial" font-size="11" fill="#97a2b5">All media</text>
+  <rect x="755" y="34" width="210" height="32" rx="6" fill="#0c111b" stroke="#222a3c"/>
+  <text x="770" y="55" font-family="Segoe UI,Arial" font-size="12" fill="#6c788d">Search library...</text>
+  <rect x="978" y="34" width="90" height="32" rx="6" fill="#6f59ff"/>
+  <text x="1023" y="55" text-anchor="middle" font-family="Segoe UI,Arial" font-size="12" fill="#fff">+ Add files</text>
+  <rect x="1078" y="34" width="86" height="32" rx="6" fill="#181f2f" stroke="#222a3c"/>
+  <text x="1121" y="55" text-anchor="middle" font-family="Segoe UI,Arial" font-size="12" fill="#f2f5f9">Add folder</text>
+
+  <rect x="18" y="94" width="178" height="480" rx="10" fill="#0b0f18" stroke="#222a3c"/>
+  <text x="36" y="122" font-family="Segoe UI,Arial" font-size="10" font-weight="700" fill="#6c788d">LIBRARY</text>
+  <rect x="30" y="138" width="154" height="34" rx="6" fill="#181f2f"/>
+  <text x="45" y="160" font-family="Segoe UI,Arial" font-size="12" fill="#f2f5f9">All media</text>
+  <text x="45" y="198" font-family="Segoe UI,Arial" font-size="12" fill="#97a2b5">Music</text>
+  <text x="45" y="234" font-family="Segoe UI,Arial" font-size="12" fill="#97a2b5">Videos</text>
+  <text x="45" y="270" font-family="Segoe UI,Arial" font-size="12" fill="#97a2b5">Favorites</text>
+  <text x="45" y="306" font-family="Segoe UI,Arial" font-size="12" fill="#97a2b5">Recently played</text>
+  <text x="36" y="355" font-family="Segoe UI,Arial" font-size="10" font-weight="700" fill="#6c788d">PLAYLISTS</text>
+  <rect x="30" y="370" width="154" height="122" rx="6" fill="#0d121d" stroke="#222a3c"/>
+  <text x="43" y="395" font-family="Segoe UI,Arial" font-size="11" fill="#97a2b5">Focus Mix</text>
+  <text x="43" y="423" font-family="Segoe UI,Arial" font-size="11" fill="#97a2b5">Favorites 2026</text>
+  <text x="43" y="451" font-family="Segoe UI,Arial" font-size="11" fill="#97a2b5">Videos</text>
+
+  <rect x="208" y="94" width="686" height="480" rx="10" fill="#080b12"/>
+  <rect x="208" y="94" width="686" height="292" rx="10" fill="#101622" stroke="#222a3c"/>
+  <text x="225" y="121" font-family="Segoe UI,Arial" font-size="10" font-weight="700" fill="#6c788d">PLAYER</text>
+  <rect x="228" y="136" width="646" height="230" rx="8" fill="#000000"/>
+  <circle cx="551" cy="248" r="42" fill="#171e2c" stroke="#30275d" stroke-width="2"/>
+  <polygon points="540,227 540,269 572,248" fill="#a79aff"/>
+
+  <rect x="208" y="398" width="686" height="176" rx="10" fill="#101622" stroke="#222a3c"/>
+  <text x="225" y="427" font-family="Segoe UI,Arial" font-size="14" font-weight="700" fill="#f2f5f9">All media</text>
+  <text x="295" y="427" font-family="Segoe UI,Arial" font-size="11" fill="#97a2b5">24 items</text>
+  <rect x="650" y="414" width="112" height="28" rx="5" fill="#0c111b" stroke="#222a3c"/>
+  <text x="706" y="432" text-anchor="middle" font-family="Segoe UI,Arial" font-size="10" fill="#97a2b5">Sort: Title</text>
+  <rect x="770" y="414" width="105" height="28" rx="5" fill="#181f2f" stroke="#222a3c"/>
+  <text x="822" y="432" text-anchor="middle" font-family="Segoe UI,Arial" font-size="10" fill="#f2f5f9">Clean missing</text>
+  <line x1="225" y1="459" x2="875" y2="459" stroke="#222a3c"/>
+  <text x="235" y="481" font-family="Segoe UI,Arial" font-size="10" fill="#6c788d">TITLE</text>
+  <text x="535" y="481" font-family="Segoe UI,Arial" font-size="10" fill="#6c788d">TYPE</text>
+  <text x="620" y="481" font-family="Segoe UI,Arial" font-size="10" fill="#6c788d">ADDED</text>
+  <text x="778" y="481" font-family="Segoe UI,Arial" font-size="10" fill="#6c788d">STATUS</text>
+  <rect x="225" y="493" width="650" height="32" rx="4" fill="#30285e"/>
+  <text x="240" y="514" font-family="Segoe UI,Arial" font-size="11" fill="#f2f5f9">Creative Demo Reel</text>
+  <text x="535" y="514" font-family="Segoe UI,Arial" font-size="11" fill="#f2f5f9">Video</text>
+  <text x="620" y="514" font-family="Segoe UI,Arial" font-size="11" fill="#f2f5f9">2026-10-04</text>
+  <text x="778" y="514" font-family="Segoe UI,Arial" font-size="11" fill="#9fe5bf">Ready</text>
+
+  <rect x="906" y="94" width="276" height="480" rx="10" fill="#0b0f18" stroke="#222a3c"/>
+  <text x="924" y="126" font-family="Segoe UI,Arial" font-size="16" font-weight="700" fill="#f2f5f9">Up next</text>
+  <text x="1155" y="126" text-anchor="end" font-family="Segoe UI,Arial" font-size="11" fill="#97a2b5">3</text>
+  <rect x="922" y="146" width="244" height="354" rx="6" fill="#0d121d" stroke="#222a3c"/>
+  <text x="938" y="176" font-family="Segoe UI,Arial" font-size="11" fill="#f2f5f9">Creative Demo Reel</text>
+  <text x="938" y="207" font-family="Segoe UI,Arial" font-size="11" fill="#97a2b5">Focus Track</text>
+  <text x="938" y="238" font-family="Segoe UI,Arial" font-size="11" fill="#97a2b5">Presentation Clip</text>
+
+  <rect x="18" y="586" width="1164" height="96" rx="10" fill="#0d121d" stroke="#222a3c"/>
+  <text x="36" y="609" font-family="Segoe UI,Arial" font-size="9" font-weight="700" fill="#6c788d">NOW PLAYING</text>
+  <text x="36" y="633" font-family="Segoe UI,Arial" font-size="13" font-weight="700" fill="#f2f5f9">Creative Demo Reel</text>
+  <text x="36" y="655" font-family="Segoe UI,Arial" font-size="10" fill="#97a2b5">Video • demo-reel.mp4</text>
+  <line x1="430" y1="614" x2="807" y2="614" stroke="#536079" stroke-width="4" stroke-linecap="round"/>
+  <line x1="430" y1="614" x2="600" y2="614" stroke="#6f59ff" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="618" cy="650" r="23" fill="#6f59ff"/>
+  <polygon points="612,639 612,661 629,650" fill="#fff"/>
+  <text x="548" y="655" font-family="Segoe UI,Arial" font-size="16" fill="#f2f5f9">|◀</text>
+  <text x="670" y="655" font-family="Segoe UI,Arial" font-size="16" fill="#f2f5f9">▶|</text>
+  <rect x="962" y="624" width="72" height="28" rx="5" fill="#181f2f" stroke="#222a3c"/>
+  <text x="998" y="642" text-anchor="middle" font-family="Segoe UI,Arial" font-size="10" fill="#f2f5f9">1.0x</text>
+  <rect x="1045" y="624" width="116" height="28" rx="5" fill="#181f2f" stroke="#222a3c"/>
+  <text x="1103" y="642" text-anchor="middle" font-family="Segoe UI,Arial" font-size="10" fill="#f2f5f9">Full screen</text>
+</svg>
